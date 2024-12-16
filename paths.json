@@ -3,6 +3,7 @@
     "/content/test/:/",
     "/content/test/configuration:/.helix/config.json",
     "/content/test/metadata:/metadata.json"
+    "/content/test/taxonomy:/taxonomy.json"
   ],
   "includes": [
     "/content/test/"
