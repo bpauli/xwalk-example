@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/test/:/",
-    "/content/test/configuration:/.helix/config.json",
-    "/content/test/metadata:/metadata.json",
-    "/content/test/taxonomy:/taxonomy.json"
+    "/content/xwalk-example/:/",
+    "/content/xwalk-example/configuration:/.helix/config.json",
+    "/content/xwalk-example/metadata:/metadata.json",
+    "/content/xwalk-example/taxonomy:/taxonomy.json"
   ],
   "includes": [
-    "/content/test/"
+    "/content/xwalk-example/"
   ]
 }
