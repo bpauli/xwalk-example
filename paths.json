@@ -1,7 +1,6 @@
 {
   "mappings": [
     "/content/bp1/:/",
-    "/content/bp1/configuration:/.helix/config.json",
     "/content/bp1/metadata:/metadata.json",
     "/content/bp1/taxonomy:/taxonomy.json"
   ],
