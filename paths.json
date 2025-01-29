@@ -2,8 +2,7 @@
   "mappings": [
     "/content/bp1/:/",
     "/content/bp1/metadata:/metadata.json",
-    "/content/bp1/taxonomy:/taxonomy.json",
-    "/conf/xwalk-example/settings/cloudconfigs/edge-delivery-service-configuration:/.config/helix.json"
+    "/content/bp1/taxonomy:/taxonomy.json"
   ],
   "includes": [
     "/content/bp1/"
