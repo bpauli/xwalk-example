@@ -29,11 +29,6 @@
     "id": "title",
     "fields": [
       {
-        "component": "text",
-        "name": "title",
-        "label": "Title"
-      },
-      {
         "component": "select",
         "name": "titleType",
         "label": "Title Type",
@@ -63,6 +58,11 @@
             "value": "h6"
           }
         ]
+      },
+      {
+        "component": "text",
+        "name": "title",
+        "label": "Title"
       }
     ]
   },
