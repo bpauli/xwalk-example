@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/walk-test/:/",
+    "/content/xwalk-test/:/",
     "/content/xwalk-test/metadata:/metadata.json",
     "/content/xwalk-test/taxonomy:/taxonomy.json",
     "/content/xwalk-test/configuration:/.helix/config.json"
