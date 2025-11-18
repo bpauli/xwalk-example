@@ -4,6 +4,7 @@
     "/content/bp-test/metadata:/metadata.json",
     "/content/bp-test/spreadsheet:/spreadsheet.json",
     "/content/bp-test/taxonomy:/taxonomy.json",
+    "/content/bp-test/example:/example.json",
     "/content/bp-test/configuration:/.helix/config.json"
 ],
 "includes": [
