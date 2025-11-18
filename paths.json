@@ -1,11 +1,12 @@
 {
 "mappings": [
-    "/content/xwalk-example/:/",
-    "/content/xwalk-example/metadata:/metadata.json",
-    "/content/xwalk-example/taxonomy:/taxonomy.json",
-    "/content/xwalk-example/configuration:/.helix/config.json"
+    "/content/bp-test/:/",
+    "/content/bp-test/metadata:/metadata.json",
+    "/content/bp-test/spreadsheet:/spreadsheet.json",
+    "/content/bp-test/taxonomy:/taxonomy.json",
+    "/content/bp-test/configuration:/.helix/config.json"
 ],
 "includes": [
-    "/content/xwalk-example/"
+    "/content/bp-test/"
 ]
 }
