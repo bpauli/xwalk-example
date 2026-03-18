@@ -1,13 +1,15 @@
 {
 "mappings": [
-    "/content/bp-test/:/",
-    "/content/bp-test/metadata:/metadata.json",
-    "/content/bp-test/spreadsheet:/spreadsheet.json",
-    "/content/bp-test/taxonomy:/taxonomy.json",
-    "/content/bp-test/example:/example.json",
-    "/content/bp-test/configuration:/.helix/config.json"
+    "/content/bp1/:/",
+    "/content/bp1/metadata:/metadata.json",
+    "/content/bp1/spreadsheet:/spreadsheet.json",
+    "/content/bp1/taxonomy:/taxonomy.json",
+    "/content/bp1/example:/example.json",
+    "/content/bp1/configuration:/.helix/config.json",
+    "/content/dam/bp1/:/assets/"
 ],
 "includes": [
-    "/content/bp-test/"
+    "/content/bp1/",
+    "/content/dam/bp1/"
 ]
 }
