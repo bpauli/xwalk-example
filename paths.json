@@ -1,15 +1,15 @@
 {
 "mappings": [
-    "/content/bp1/:/",
-    "/content/bp1/metadata:/metadata.json",
-    "/content/bp1/spreadsheet:/spreadsheet.json",
-    "/content/bp1/taxonomy:/taxonomy.json",
-    "/content/bp1/example:/example.json",
-    "/content/bp1/configuration:/.helix/config.json",
-    "/content/dam/bp1/:/assets/"
+    "/content/xwalk-example/:/",
+    "/content/xwalk-example/metadata:/metadata.json",
+    "/content/xwalk-example/spreadsheet:/spreadsheet.json",
+    "/content/xwalk-example/taxonomy:/taxonomy.json",
+    "/content/xwalk-example/example:/example.json",
+    "/content/xwalk-example/configuration:/.helix/config.json",
+    "/content/dam/xwalk-example/:/assets/"
 ],
 "includes": [
-    "/content/bp1/",
-    "/content/dam/bp1/"
+    "/content/xwalk-example/",
+    "/content/dam/xwalk-example/"
 ]
 }
