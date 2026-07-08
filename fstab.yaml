@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://eeec-193-105-139-131.ngrok-free.app/bin/franklin.delivery/bpauli/xwalk-example/main"
+    url: "https://3887-193-105-139-131.ngrok-free.app/bin/franklin.delivery/bpauli/xwalk-example/main"
     type: "markup"
     suffix: ".html"
